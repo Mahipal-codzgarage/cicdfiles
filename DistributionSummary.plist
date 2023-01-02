@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cicddemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>9</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>EBA1C938974D3EB68BBC2EFE562C3A22D093A637</string>
+				<key>dateExpires</key>
+				<string>27/12/23</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>C64A7P8W6A.com.swift.cicd</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>C64A7P8W6A</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>cicddemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a3b14cdd-0aea-45f0-883c-9bb19d8bf493</string>
+				<key>dateExpires</key>
+				<string>27/12/23</string>
+				<key>name</key>
+				<string>swift ci cd development certificate new</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>C64A7P8W6A</string>
+				<key>name</key>
+				<string>Kevinkumar Bhut</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
